@@ -94,3 +94,7 @@ Escolhi o código gerado pelo **Claude** porque foi a resposta que melhor atende
 - Atualização automática da interface após cada operação CRUD
 
 O projeto final utiliza o código do Claude sem alterações.
+
+
+ALUNO: LUCAS GASPAR
+RM: 568616
